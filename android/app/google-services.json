@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "445243032226",
+    "project_id": "fir-auth-da3e1",
+    "storage_bucket": "fir-auth-da3e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445243032226:android:f4359d592558d9637fcdfb",
+        "android_client_info": {
+          "package_name": "com.example.orday_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445243032226-vi6vvjnvfletvnrs22khpcuvqpqn34op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMkPsms7xfoS5DJo8QerNBPn2wH5p9Adg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445243032226-vi6vvjnvfletvnrs22khpcuvqpqn34op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
